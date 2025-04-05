@@ -1,0 +1,19 @@
+﻿# Fichiers générés par Flutter
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+
+# Android/iOS
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/local.properties
+**/ios/**/Podfile.lock
+**/ios/**/Pods/
+**/ios/**/xcuserdata/
+
+# Environnement
+**/.env
+**/.vscode/
